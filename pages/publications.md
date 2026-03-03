@@ -1,7 +1,4 @@
----                                                                           
-  title: Publications                                                           
-  nav: Publications
-  nav_order: 1                                                                  
+                                                              
   ---                                                                           
                                                                                 
   View my full publication record on [Google
@@ -11,14 +8,16 @@
   ---
 
   ## Peer-Reviewed Journal Articles
+  
 
-
-  **2025**
+ <h3 class="text-primary border-bottom pb-2">2025</h3>
    
   1. Maduabuchi C., **Okoli K.**, Chigozie U. (2025). "Ml4solar: Continental 
   Solar Potential Evaluation Using Machine Learning." *SSRN*. 
   [http://dx.doi.org/10.2139/ssrn.5171954](http://dx.doi.org/10.2139/ssrn.5171954)
 
+  
+  
   **2024**
 
   2. Maduabuchi C., **Okoli K.** (2024). "Transient real-weather 4E optimization
@@ -54,6 +53,8 @@
   [https://doi.org/10.1155/2024/1050785](https://doi.org/10.1155/2024/1050785) —
    *Citations: 21*
 
+  
+  
   **2023**
 
   7. Alghamdi H., Maduabuchi C., **Okoli K.**, Albaker A., Alatawi I., Alghassab
@@ -97,6 +98,8 @@
   3.0). [https://doi.org/10.3390/en16041603](https://doi.org/10.3390/en16041603)
    — *Citations: 24*
 
+  
+  
   **2020**
 
   13. Achirgbenda V., Kuhe A., **Okoli K.** (2020). "Techno-economic feasibility
@@ -107,7 +110,9 @@
 
   ---
 
-  ## Conference Papers
+  
+  
+  ### Conference Papers
 
   1. **Okoli K.**, Pallavi D., Mark Mba W. (2025). "Machine Learning-Driven 
   Geospatial Framework for Optimal Biorefinery Siting in the United States
