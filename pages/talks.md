@@ -4,7 +4,7 @@ nav: Talks
 nav_order: 2
 ---
 
-  ## Research Posters
+  ### Research Posters
 
   1. **Okoli K.** (2023). "Optimizing for Tomorrow: Digital Twins Driving
   Railway Environmental Sustainability." *Workshop on Railways and International

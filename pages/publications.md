@@ -1,5 +1,9 @@
                                                               
-  ---                                                                           
+  ---
+  title: Publication
+  nav: Talks
+  nav_order: 1
+  ---                                                                          
                                                                                 
   View my full publication record on [Google
   Scholar](https://scholar.google.com/citations?user=8BdFqLYAAAAJ&hl=en) |
@@ -7,7 +11,8 @@
 
   ---
 
-  ## Peer-Reviewed Journal Articles
+  ### Peer-Reviewed Journal Articles
+
 
    
   1. Maduabuchi C., **Okoli K.**, Chigozie U. (2025). "Ml4solar: Continental 
@@ -15,7 +20,7 @@
   [http://dx.doi.org/10.2139/ssrn.5171954](http://dx.doi.org/10.2139/ssrn.5171954)
 
   
-  
+  ---
   **2024**
 
   2. Maduabuchi C., **Okoli K.** (2024). "Transient real-weather 4E optimization
@@ -52,7 +57,7 @@
    *Citations: 21*
 
   
-  
+  ---
   **2023**
 
   7. Alghamdi H., Maduabuchi C., **Okoli K.**, Albaker A., Alatawi I., Alghassab
@@ -97,7 +102,7 @@
    — *Citations: 24*
 
   
-  
+  ---
   **2020**
 
   13. Achirgbenda V., Kuhe A., **Okoli K.** (2020). "Techno-economic feasibility
@@ -106,10 +111,10 @@
   Environmental Effects* (IF: 2.3). [https://doi.org/10.1080/15567036.2020.18138
   48](https://doi.org/10.1080/15567036.2020.1813848) — *Citations: 22*
 
-  ---
+  
 
   
-  
+  ---
   ### Conference Papers
 
   1. **Okoli K.**, Pallavi D., Mark Mba W. (2025). "Machine Learning-Driven 
