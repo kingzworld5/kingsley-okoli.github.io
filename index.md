@@ -1,5 +1,5 @@
   ---                       
-  title: Kingsley Okoli | Mechanical Engineering PhD Candidate, Iowa State
+  Kingsley Okoli | Mechanical Engineering PhD Candidate, Iowa State
   University                                                                   
   ---
                                                                                 
