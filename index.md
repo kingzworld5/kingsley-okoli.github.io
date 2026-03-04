@@ -57,21 +57,21 @@
 
   <div class="mb-3 p-3 border rounded">
     <p><span class="badge bg-primary">PhD — Expected 2027</span> <span 
-  class="badge bg-secondary" </span></p>
+  class="badge bg-secondary"></span></p>
     <p class="mb-0"><strong>Mechanical Engineering</strong> — Iowa State
   University, USA</p>
   </div>
 
   <div class="mb-3 p-3 border rounded">
     <p><span class="badge bg-primary">MS — 2024</span> <span class="badge
-  bg-secondary"> </span></p>
+  bg-secondary"></span></p>
     <p class="mb-0"><strong>Computer Science & Engineering</strong> — SPbETU
   'LETI', Russia</p>
   </div>
 
   <div class="mb-3 p-3 border rounded">
     <p><span class="badge bg-primary">BEng — 2020</span> <span class="badge
-  bg-secondary"> </span></p>
+  bg-secondary"></span></p>
     <p class="mb-0"><strong>Mechanical Engineering</strong> — University of
   Agriculture, Makurdi, Nigeria</p>
   </div>
