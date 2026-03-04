@@ -1,6 +1,6 @@
                                                               
   ---
-  title: Publication
+  title: Publications
   nav: Talks
   nav_order: 1
   ---                                                                          
@@ -11,7 +11,7 @@
 
   ---
 
-  ### Peer-Reviewed Journal Articles
+  ## Peer-Reviewed Journal Articles
 
 
    
@@ -115,7 +115,7 @@
 
   
   ---
-  ### Conference Papers
+  ## Conference Papers
 
   1. **Okoli K.**, Pallavi D., Mark Mba W. (2025). "Machine Learning-Driven 
   Geospatial Framework for Optimal Biorefinery Siting in the United States
