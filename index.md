@@ -11,7 +11,7 @@
    of Dr. Mark Mba-Wright.
   My research sits at the intersection of computational modeling, sustainability
    science, and data-driven
-  decision-making — with a focus on supply chain optimization, energy and
+  decision-making with a focus on supply chain optimization, energy and
   biorefinery systems economics.
 
   I hold an **MS in Computer Science and Engineering** from St. Petersburg
@@ -57,21 +57,21 @@
 
   <div class="mb-3 p-3 border rounded">
     <p><span class="badge bg-primary">PhD — Expected 2027</span> <span 
-  class="badge bg-secondary">GPA: 4.0/4.0</span></p>
+  class="badge bg-secondary" </span></p>
     <p class="mb-0"><strong>Mechanical Engineering</strong> — Iowa State
   University, USA</p>
   </div>
 
   <div class="mb-3 p-3 border rounded">
     <p><span class="badge bg-primary">MS — 2024</span> <span class="badge
-  bg-secondary">GPA: 5.0/5.0</span></p>
+  bg-secondary"> </span></p>
     <p class="mb-0"><strong>Computer Science & Engineering</strong> — SPbETU
   'LETI', Russia</p>
   </div>
 
   <div class="mb-3 p-3 border rounded">
     <p><span class="badge bg-primary">BEng — 2020</span> <span class="badge
-  bg-secondary">GPA: 3.67/5.0</span></p>
+  bg-secondary"> </span></p>
     <p class="mb-0"><strong>Mechanical Engineering</strong> — University of
   Agriculture, Makurdi, Nigeria</p>
   </div>
@@ -86,7 +86,6 @@
   <span class="badge bg-dark">Machine Learning</span>
   <span class="badge bg-dark">Python</span>
   <span class="badge bg-dark">scikit-learn</span>
-  <span class="badge bg-dark">TensorFlow</span>
   <span class="badge bg-dark">Wolfram Mathematica</span>
   <span class="badge bg-dark">BioSTEAM</span>
   <span class="badge bg-dark">OpenLCA</span>
