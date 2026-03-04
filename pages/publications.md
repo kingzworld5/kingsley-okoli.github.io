@@ -1,8 +1,8 @@
-  ---
-  title: Publications                                                           
-  nav: Publications
-  nav_order: 1
-  ---
+---
+title: Publication
+nav: Publication
+nav_order: 1
+---
 
   View my full publication record on [Google
   Scholar](https://scholar.google.com/citations?user=8BdFqLYAAAAJ&hl=en)
